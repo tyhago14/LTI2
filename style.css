@@ -1,0 +1,130 @@
+/*----------------------------------------------
+CSS Settings For HTML Div ExactCenter
+------------------------------------------------*/
+span {
+color:red
+}
+h1
+{
+  text-align: center;
+}
+h2
+{
+text-align:center;
+border-radius:10px 10px 0 0;
+margin:-10px -40px;
+padding:15px
+}
+hr
+{
+border:0;
+border-bottom:1px solid;
+margin:10px -40px;
+margin-bottom:30px
+}
+h3
+{
+  color: red;
+}
+#login
+{
+margin: auto;
+width:450px;
+border-radius:10px;
+border:2px solid #00000017;
+padding:10px 40px 25px;
+background-color:#00000017;
+
+}
+input[type=text],input[type=password]
+{
+width:96.5%;
+padding:10px;
+margin-top:8px;
+border:1px solid #2898cc;
+padding-left:5px;
+font-size:20px;
+}
+input[type=submit]
+{
+width:100%;
+background-color:#2898cc;
+
+padding:10px;
+font-size:20px;
+cursor:pointer;
+border-radius:5px;
+}
+#profile
+{
+padding:20px;
+font-size:20px;
+background-color:#2898cc
+}
+#profile2
+{
+border-radius: 5px;
+background-color: #2898cc6e;
+padding: 20px;
+font-size: 150%;
+}
+#logout
+{
+float:right;
+padding:0px;
+border:solid 1px black
+}
+#texto1
+{
+  display: inline-block;
+  color:#ffffff;
+  font-size: 30px;
+}
+#texto2
+{
+  text-align:center;
+  display: inline-block;
+  color:#000000;
+  font-size: 30px;
+}
+
+#texto3{
+  float:right;
+  width:25%;
+  overflow:hidden;
+
+}
+
+#checkboxes
+{
+background-color: #ffffff
+}
+
+a
+{
+text-decoration:none;
+color:#white;
+}
+i
+{
+text-decoration:none;
+color:#ffffff;
+font-size: 30px;
+display: inline-block;
+}
+table{
+  border: 1px solid black;
+}
+#sides{
+margin:0;
+}
+#left{
+float:left;
+width:75%;
+overflow:hidden;
+}
+#right{
+float:left;
+width:25%;
+overflow:hidden;
+}
