@@ -1,0 +1,162 @@
+# depslib dependency file v1.0
+1556120782 source:c:\users\adamastoragressor\desktop\stdar\3o\lti2\projetosendr\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"serial.h"
+	<winsock2.h>
+	"winsock2.h"
+	<windows.h>
+	<string>
+	<time.h>
+	<fstream>
+	<thread>
+	<sys/time.h>
+	<sstream>
+
+1551108931 c:\users\adamastoragressor\desktop\stdar\3o\lti2\projetosendr\serial.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1551108968 source:c:\users\adamastoragressor\desktop\stdar\3o\lti2\projetosendr\serial.cpp
+	"serial.h"
+
+1556120782 source:c:\users\adamastoragressor\desktop\stdar\3o\lti2\v1.conc\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"serial.h"
+	<winsock2.h>
+	"winsock2.h"
+	<windows.h>
+	<string>
+	<time.h>
+	<fstream>
+	<thread>
+	<sys/time.h>
+	<sstream>
+
+1551108931 c:\users\adamastoragressor\desktop\stdar\3o\lti2\v1.conc\serial.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1551108968 source:c:\users\adamastoragressor\desktop\stdar\3o\lti2\v1.conc\serial.cpp
+	"serial.h"
+
+1551108968 source:c:\users\adamastoragressor\desktop\stdar\3o\lti2\v2.conc\serial.cpp
+	"serial.h"
+
+1551108931 c:\users\adamastoragressor\desktop\stdar\3o\lti2\v2.conc\serial.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1556294222 source:c:\users\adamastoragressor\desktop\stdar\3o\lti2\v2.conc\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"serial.h"
+	<winsock2.h>
+	"winsock2.h"
+	<windows.h>
+	<string>
+	<time.h>
+	<fstream>
+	<thread>
+	<sys/time.h>
+	<sstream>
+
+1559555127 source:c:\users\adamastoragressor\desktop\stdar\3o\lti2\v3.conc\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"serial.h"
+	<winsock2.h>
+	"winsock2.h"
+	<windows.h>
+	<string>
+	<time.h>
+	<fstream>
+	<thread>
+	<sys/time.h>
+	<sstream>
+	<iostream>
+	<string>
+	<fstream>
+
+1551108931 c:\users\adamastoragressor\desktop\stdar\3o\lti2\v3.conc\serial.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1551108968 source:c:\users\adamastoragressor\desktop\stdar\3o\lti2\v3.conc\serial.cpp
+	"serial.h"
+
+1551108968 source:c:\users\adamastoragressor\desktop\stdar\3o\lti2\v5.conc\serial.cpp
+	"serial.h"
+
+1551108931 c:\users\adamastoragressor\desktop\stdar\3o\lti2\v5.conc\serial.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1551108968 source:c:\users\tiago\desktop\trabalho\v5.conc\serial.cpp
+	"serial.h"
+
+1551108931 c:\users\tiago\desktop\trabalho\v5.conc\serial.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1551108968 source:c:\users\tiago\desktop\cf-g4\concentrador\serial.cpp
+	"serial.h"
+
+1551108931 c:\users\tiago\desktop\cf-g4\concentrador\serial.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1560762985 source:c:\users\tiago\desktop\cf-g4\concentrador\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"serial.h"
+	<winsock2.h>
+	"winsock2.h"
+	<windows.h>
+	<string>
+	<time.h>
+	<fstream>
+	<thread>
+	<sys/time.h>
+	<sstream>
+	<iostream>
+	<string>
+	<fstream>
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<sys/types.h>
+	<fstream>
+	<winsock.h>
+	<winsock2.h>
+	<math.h>
+	<sstream>
+	<thread>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<signal.h>
+	<mysql.h>
+

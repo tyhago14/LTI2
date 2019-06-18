@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1559442298 source:c:\users\tiago\desktop\trabalho\gestor\gestor\main.cpp
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<sys/types.h>
+	<fstream>
+	<winsock.h>
+	<winsock2.h>
+	<math.h>
+	<sstream>
+	<thread>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<signal.h>
+	<mysql.h>
+
+1560763458 source:c:\users\tiago\desktop\cf-g4\gestor\gestor\main.cpp
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<sys/types.h>
+	<fstream>
+	<winsock.h>
+	<winsock2.h>
+	<math.h>
+	<sstream>
+	<thread>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<signal.h>
+	<mysql.h>
+
